@@ -1,0 +1,34 @@
+/* General Code Block Styling */
+.code-ios {
+  background-color: #f7f7f7; /* Light gray background */
+  border-radius: 8px; /* Rounded corners */
+  padding: 16px; /* Padding around the code */
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier,
+    monospace; /* iOS code font */
+  overflow-x: auto; /* Horizontal scrolling for long code */
+}
+
+/* Syntax Highlighting */
+.code-ios .keyword {
+  color: #005cc5;
+  font-weight: bold;
+} /* Keywords */
+.code-ios .string {
+  color: #d73a49;
+} /* Strings */
+.code-ios .function {
+  color: #6f42c1;
+} /* Functions */
+.code-ios .comment {
+  color: #6a737d;
+  font-style: italic;
+} /* Comments */
+.code-ios .number {
+  color: #005cc5;
+} /* Numbers */
+.code-ios .type {
+  color: #e36209;
+} /* Types */
+.code-ios .punctuation {
+  color: #24292e;
+} /* Punctuation */

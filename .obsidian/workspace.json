@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "dc750f7221ab8a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "30a9aa7d30499759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f28dd82c08973a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d6dffc869e3dc45",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4ff875e6f19a206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cecc33755c96e5af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19a3d7797529030e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a042ad99d668680c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75a3926cef8e30a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "07070c4e8e94bf73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfb6a7c0a0471a84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0ade3d524cccd00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d566970f03e0aea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a82e5f422e2b6d77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md"
+              }
+            }
+          },
+          {
+            "id": "0e83577282599759",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9aa1891e526518a9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "47f28dd82c08973a",
+  "lastOpenFiles": [
+    "README.md",
+    "Resources/Project Ideas.md",
+    "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md",
+    "Areas/Freelance/Obsidian AI Plugin",
+    "Areas/Freelance/Freelance Templates.md",
+    "Areas/iOS/Interview Questions.md",
+    "Areas/Mechanic/Mechanic Notes.md",
+    "Areas/React/React Notes.md",
+    "Areas/React/Interview questions React.md",
+    "Areas/iOS/IOS Notes.md",
+    "Knowledge/Weekly Notes",
+    "Areas/Algorithms/Interview question algorithms.md",
+    "Areas/iOS/Ios css.md",
+    "Knowledge/Daily Notes/2024-07-03.md",
+    "Templates/Note Template.md",
+    "Resources/Becoming a Best Software Dev.md",
+    "Projects/koliprints/Diagrams/UML.canvas",
+    "Projects/koliprints/Diagrams/Tasks.md",
+    "Areas/Freelance/Pages for getting work.md",
+    "Areas/React/Images/Pasted image 20240630124347.png",
+    "Projects/koliprints/Images/Pasted image 20240627172756.png",
+    "Knowledge/Daily Notes",
+    "Knowledge",
+    "Untitled.canvas",
+    "Areas/React/Images/Pasted image 20240629031647.png",
+    "Areas/React/Images/Pasted image 20240629031455.png",
+    "Areas/iOS",
+    "Projects/koliprints/Docs/Koliprints.md",
+    "Areas/Mechanic",
+    "Areas/Music",
+    "Areas/Freelance",
+    "Untitled/Untitled.md",
+    "Archives",
+    "Resources",
+    "Projects/koliprints/Docs/Untitled.canvas",
+    "Areas/React/Images/Pasted image 20240626105304.png",
+    "Areas/React/Images/Pasted image 20240626105051.png",
+    "Areas/React/Images/Pasted image 20240626105059.png",
+    "Areas/React/Images/Pasted image 20240626105123.png",
+    "Areas/React/Images/Pasted image 20240626105138.png",
+    "Areas/React/Images/Pasted image 20240626105236.png"
+  ]
+}

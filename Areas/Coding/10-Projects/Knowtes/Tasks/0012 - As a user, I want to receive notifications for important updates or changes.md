@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement a notification system.
+    - Allow users to customize notification preferences.
+- **Considerations:**
+    - Ensure notifications are timely and relevant.
+    - Provide both in-app and email notifications.

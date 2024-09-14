@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement a template library.
+    - Allow users to create and save custom templates.
+- **Considerations:**
+    - Provide a variety of pre-made templates.
+    - Ensure templates are easy to use and customize.

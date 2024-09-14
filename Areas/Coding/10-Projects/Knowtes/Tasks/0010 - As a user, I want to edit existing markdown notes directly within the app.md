@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement a markdown editor.
+    - Enable saving changes to the vault.
+- **Considerations:**
+    - Support common markdown features (e.g., headers, lists, code blocks).
+    - Provide a user-friendly editing interface.

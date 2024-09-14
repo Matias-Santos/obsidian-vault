@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement a locking feature for notes.
+    - Allow users to lock and unlock notes easily.
+- **Considerations:**
+    - Provide a clear indicator for locked notes.
+    - Ensure locked notes are protected from edits until unlocked.

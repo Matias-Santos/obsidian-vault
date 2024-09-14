@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement tagging and categorization features.
+    - Allow users to create and manage custom tags.
+- **Considerations:**
+    - Provide an intuitive UI for managing tags.
+    - Enable filtering and sorting by tags and categories.

@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement encryption for notes.
+    - Allow users to set passwords for sensitive documents.
+- **Considerations:**
+    - Ensure encryption is strong and meets industry standards.
+    - Provide recovery options for forgotten passwords.

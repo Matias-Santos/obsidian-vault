@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Store a history of notes made during previous sessions.
+    - Display the history upon login.
+- **Considerations:**
+    - Ensure data consistency across sessions.
+    - Provide an intuitive UI for reviewing notes.

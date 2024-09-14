@@ -1,0 +1,7 @@
+- **Subtasks:**
+    - Track metrics related to note-taking and documentation.
+    - Generate visualizations (graphs, charts) from these metrics.
+    - Calculate scores or ratings based on the metrics.
+- **Considerations:**
+    - Ensure visualizations are clear and informative.
+    - Provide explanations for the scores and metrics used.

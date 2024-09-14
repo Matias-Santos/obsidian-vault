@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1722307160071,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1722307087026,
+          "path": "Areas/Life/GOALS/How much am I worth.md"
+        }
+      ],
+      "title": "My Core Principles"
+    },
+    {
+      "type": "group",
+      "ctime": 1722307520862,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1722307510344,
+          "path": "Areas/Life/GOALS/2024/2024 OKR's.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722307510344,
+          "path": "Areas/Life/GOALS/2024/2024 Q3 OKR's.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722307510344,
+          "path": "Areas/Life/GOALS/2024/2024 W30 Weekly Review.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722307510344,
+          "path": "Areas/Life/GOALS/2024/2024 July Monthly Review.md"
+        }
+      ],
+      "title": "OKR's"
+    },
+    {
+      "type": "file",
+      "ctime": 1722307660318,
+      "path": "Areas/Finance/2024 August Finance Plan.md",
+      "title": "Finance"
+    }
+  ]
+}

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30a9aa7d30499759",
+        "id": "a14625a465aa5de2",
         "type": "tabs",
         "children": [
           {
-            "id": "47f28dd82c08973a",
+            "id": "50aa729e239eaf99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md",
+                "file": "Zettlekasten.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#reading",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5
   },
   "right": {
     "id": "75a3926cef8e30a0",
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md",
+                "file": "Zettlekasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md",
+                "file": "Zettlekasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md"
+                "file": "Zettlekasten.md"
               }
-            }
-          },
-          {
-            "id": "0e83577282599759",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           },
           {
@@ -144,13 +136,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "d1975487ec7c2896",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -162,51 +162,64 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "47f28dd82c08973a",
+  "active": "cecc33755c96e5af",
   "lastOpenFiles": [
-    "README.md",
-    "Resources/Project Ideas.md",
-    "Areas/Freelance/Obsidian AI Plugin/Knowtes (Obsidian AI Plugin).md",
-    "Areas/Freelance/Obsidian AI Plugin",
-    "Areas/Freelance/Freelance Templates.md",
-    "Areas/iOS/Interview Questions.md",
-    "Areas/Mechanic/Mechanic Notes.md",
-    "Areas/React/React Notes.md",
-    "Areas/React/Interview questions React.md",
-    "Areas/iOS/IOS Notes.md",
-    "Knowledge/Weekly Notes",
-    "Areas/Algorithms/Interview question algorithms.md",
-    "Areas/iOS/Ios css.md",
-    "Knowledge/Daily Notes/2024-07-03.md",
-    "Templates/Note Template.md",
+    "PostgreSQL.md",
+    "Areas/Knowledge/Daily Notes/2024-09-14.md",
+    "Books Log.md",
+    "Como Configurar Alarmas del Terreno.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-13.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-12.md",
+    "Resources/Projects/React Master I/00-componetization/Componentization Kanban.md",
+    "Craftmanship.md",
+    "Areas/Knowledge/Books/Notes on How to Take Smart Notes.md",
+    "Zettlekasten.md",
+    "Resources/Templates/Default Template.md",
+    "Resources/Templates/Daily Notes Template.md",
+    "Pomodoro Technique.md",
+    "Resources/Templates/Books Template.md",
+    "Areas/Knowledge/Books/Notes on Sun Tzu's Art of War Notes.md",
+    "Areas/Knowledge/Books/Notes on Sun Tsu's Art of War Applied to Development.md",
+    "Areas/Knowledge/Books/Notes on On the shortness of life.md",
+    "Areas/Knowledge/Books/Notes on Caminar.md",
+    "Areas/Knowledge/Books/Notes on How to Win Friends and Influence People.md",
+    "React Design Patterns and Best Practices.md",
+    "How to get away with murder.md",
+    "Resources/Projects/Project Ideas.md",
     "Resources/Becoming a Best Software Dev.md",
-    "Projects/koliprints/Diagrams/UML.canvas",
-    "Projects/koliprints/Diagrams/Tasks.md",
-    "Areas/Freelance/Pages for getting work.md",
-    "Areas/React/Images/Pasted image 20240630124347.png",
-    "Projects/koliprints/Images/Pasted image 20240627172756.png",
-    "Knowledge/Daily Notes",
-    "Knowledge",
+    "Draggable element js.md",
+    "Resources/Projects/React Master I/00-componetization/Componentization.md",
+    "Design patterns.md",
+    "Areas/Knowledge/Daily Notes/2024-09",
+    "Areas/Knowledge/Daily Notes/2024-08",
+    "Resources/Projects/React Master I/00-componetization/Cards",
+    "Resources/Projects/React Master I/00-componetization",
+    "Resources/Projects/React Master I",
+    "Areas/Coding/12-CI-CD",
+    "Areas/Coding/11-Git",
+    "Resources/Projects/OtakuReview",
+    "Resources/Projects/Invest3r",
+    "Resources/Projects/Koliprints",
+    "Resources/Projects/Untitled.canvas",
+    "Areas/Coding/00-React/Images/Pasted image 20240729151821.png",
+    "Areas/Coding/00-React/Images/Pasted image 20240626105051.png",
+    "Areas/Coding/10-Projects/Koliprints/Diagrams/UML.canvas",
+    "Areas/Coding/10-Projects/Kolicode/Diagrams/UML.canvas",
+    "Projects/Kolicode/Diagrams/Untitled.canvas",
+    "Areas/Coding/00-React/Images/Pasted image 20240630124347.png",
+    "Areas/Coding/10-Projects/Koliprints/Images/Pasted image 20240627172756.png",
     "Untitled.canvas",
-    "Areas/React/Images/Pasted image 20240629031647.png",
-    "Areas/React/Images/Pasted image 20240629031455.png",
-    "Areas/iOS",
-    "Projects/koliprints/Docs/Koliprints.md",
-    "Areas/Mechanic",
-    "Areas/Music",
-    "Areas/Freelance",
-    "Untitled/Untitled.md",
-    "Archives",
-    "Resources",
+    "Areas/Coding/00-React/Images/Pasted image 20240629031647.png",
+    "Areas/Coding/00-React/Images/Pasted image 20240629031455.png",
     "Projects/koliprints/Docs/Untitled.canvas",
-    "Areas/React/Images/Pasted image 20240626105304.png",
-    "Areas/React/Images/Pasted image 20240626105051.png",
-    "Areas/React/Images/Pasted image 20240626105059.png",
-    "Areas/React/Images/Pasted image 20240626105123.png",
-    "Areas/React/Images/Pasted image 20240626105138.png",
-    "Areas/React/Images/Pasted image 20240626105236.png"
+    "Areas/Coding/00-React/Images/Pasted image 20240626105304.png",
+    "Areas/Coding/00-React/Images/Pasted image 20240626105059.png",
+    "Areas/Coding/00-React/Images/Pasted image 20240626105123.png",
+    "Areas/Coding/00-React/Images/Pasted image 20240626105138.png"
   ]
 }

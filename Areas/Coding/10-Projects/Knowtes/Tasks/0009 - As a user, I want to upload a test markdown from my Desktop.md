@@ -1,0 +1,7 @@
+- **Subtasks:**
+    - Implement a file upload mechanism.
+    - Parse and display the uploaded markdown.
+    - Integrate the uploaded markdown into the existing system.
+- **Considerations:**
+    - Handle different markdown formats and content.
+    - Ensure security by validating uploaded files.

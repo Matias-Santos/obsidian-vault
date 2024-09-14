@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement an analytics dashboard.
+    - Provide insights on frequency, length, and topics of notes.
+- **Considerations:**
+    - Ensure data privacy and anonymization of insights.
+    - Offer actionable recommendations based on analytics.

@@ -89,9 +89,14 @@ var FontPlugin = class extends import_obsidian.Plugin {
           await this.process_and_load_font(font_file_name, false);
         } else {
           applyCss("", "custom_font_base64");
-          const files = await this.app.vault.adapter.list(this.settings.font_folder);
+          const files = await this.app.vault.adapter.list(
+            this.settings.font_folder
+          );
           for (const file of files.files) {
-            const file_name = file.replace(this.settings.font_folder, "");
+            const file_name = file.replace(
+              this.settings.font_folder,
+              ""
+            );
             await this.process_and_load_font(file_name, true);
           }
         }
@@ -194,22 +199,22 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
     const { containerEl } = this;
     containerEl.empty();
     const infoContainer = containerEl.createDiv();
-    infoContainer.setText("In Order to set the font, copy your font into fonts directory that you set");
-    new import_obsidian.Setting(containerEl).setName("Fonts Folder").setDesc("Folder to look for your custom fonts").addText(
-      (text) => {
-        text.onChange(async (value) => {
-          this.plugin.settings.font_folder = value;
-          await this.plugin.saveSettings();
-          await this.plugin.loadSettings();
-        });
-        if (this.plugin.settings.font_folder.trim() == "") {
-          this.plugin.settings.font_folder = `${this.app.vault.configDir}/fonts`;
-        }
-        if (!this.plugin.settings.font_folder.endsWith("/"))
-          this.plugin.settings.font_folder = this.plugin.settings.font_folder + "/";
-        text.setValue(this.plugin.settings.font_folder);
-      }
+    infoContainer.setText(
+      "In Order to set the font, copy your font into fonts directory that you set"
     );
+    new import_obsidian.Setting(containerEl).setName("Fonts Folder").setDesc("Folder to look for your custom fonts").addText((text) => {
+      text.onChange(async (value) => {
+        this.plugin.settings.font_folder = value;
+        await this.plugin.saveSettings();
+        await this.plugin.loadSettings();
+      });
+      if (this.plugin.settings.font_folder.trim() == "") {
+        this.plugin.settings.font_folder = `${this.app.vault.configDir}/fonts`;
+      }
+      if (!this.plugin.settings.font_folder.endsWith("/"))
+        this.plugin.settings.font_folder = this.plugin.settings.font_folder + "/";
+      text.setValue(this.plugin.settings.font_folder);
+    });
     const font_folder_path = this.plugin.settings.font_folder;
     const options = [{ name: "none", value: "None" }];
     try {
@@ -217,9 +222,13 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
         await this.app.vault.adapter.mkdir(font_folder_path);
       }
       if (await this.app.vault.adapter.exists(font_folder_path)) {
-        const files = await this.app.vault.adapter.list(font_folder_path);
+        const files = await this.app.vault.adapter.list(
+          font_folder_path
+        );
         for (const file of files.files) {
           const file_name = file.replace(font_folder_path, "");
+          if (file_name.startsWith("."))
+            continue;
           options.push({ name: file_name, value: file_name });
         }
       }
@@ -227,7 +236,9 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
     } catch (error) {
       console.log(error);
     }
-    new import_obsidian.Setting(containerEl).setName("Reload fonts from folder").setDesc("This button reloades from the folder you specified (it also creates the folder for you)").addButton((button) => {
+    new import_obsidian.Setting(containerEl).setName("Reload fonts from folder").setDesc(
+      "This button reloades from the folder you specified (it also creates the folder for you)"
+    ).addButton((button) => {
       button.setButtonText("Reload");
       button.onClick((callback) => {
         this.plugin.saveSettings();
@@ -236,8 +247,10 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
       });
     });
     this.containerEl.createDiv();
-    new import_obsidian.Setting(containerEl).setName("Font").setDesc(`Choose font (If you can't see your fonts, make sure your fonts are in the folder you specified and hit reload. 
-				Also if you choose multiple fonts option, we will load and process all fonts in the folder for you. In that Case, enable Custom CSS Mode)`).addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Font").setDesc(
+      `Choose font (If you can't see your fonts, make sure your fonts are in the folder you specified and hit reload. 
+				Also if you choose multiple fonts option, we will load and process all fonts in the folder for you. In that Case, enable Custom CSS Mode)`
+    ).addDropdown((dropdown) => {
       for (const opt of options) {
         dropdown.addOption(opt.name, opt.value);
       }
@@ -247,7 +260,9 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.load_plugin();
       });
     });
-    new import_obsidian.Setting(containerEl).setName("Force Style").setDesc("This option should only be used if you have installed a community theme and normal mode doesn't work").addToggle((toggle) => {
+    new import_obsidian.Setting(containerEl).setName("Force Style").setDesc(
+      "This option should only be used if you have installed a community theme and normal mode doesn't work"
+    ).addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.force_mode);
       toggle.onChange(async (value) => {
         this.plugin.settings.force_mode = value;
@@ -255,7 +270,9 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.load_plugin();
       });
     });
-    new import_obsidian.Setting(containerEl).setName("Custom CSS Mode").setDesc("If you want to apply a custom css style rather than default style, choose this.").addToggle((toggle) => {
+    new import_obsidian.Setting(containerEl).setName("Custom CSS Mode").setDesc(
+      "If you want to apply a custom css style rather than default style, choose this."
+    ).addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.custom_css_mode);
       toggle.onChange(async (value) => {
         if (this.plugin.settings.custom_css_mode == false) {
@@ -269,13 +286,11 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
     });
     if (this.plugin.settings.custom_css_mode) {
       new import_obsidian.Setting(containerEl).setName("Custom CSS Style").setDesc("Input your custom css style").addTextArea(async (text) => {
-        text.onChange(
-          async (new_value) => {
-            this.plugin.settings.custom_css = new_value;
-            await this.plugin.saveSettings();
-            await this.plugin.load_plugin();
-          }
-        );
+        text.onChange(async (new_value) => {
+          this.plugin.settings.custom_css = new_value;
+          await this.plugin.saveSettings();
+          await this.plugin.load_plugin();
+        });
         text.setDisabled(!this.plugin.settings.custom_css_mode);
         if (this.plugin.settings.custom_css == "") {
           let font_family_name = "";
@@ -285,13 +300,20 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
             console.log(error);
           }
           if (font_family_name == "all") {
-            if (await this.app.vault.adapter.exists(font_folder_path)) {
-              const files = await this.app.vault.adapter.list(font_folder_path);
+            if (await this.app.vault.adapter.exists(
+              font_folder_path
+            )) {
+              const files = await this.app.vault.adapter.list(
+                font_folder_path
+              );
               let final_str = "";
               for (const file of files.files) {
                 const file_name = file.split("/")[2];
                 const font_family = file_name.split(".")[0];
-                final_str += "\n" + get_custom_css(font_family, "." + font_family);
+                final_str += "\n" + get_custom_css(
+                  font_family,
+                  "." + font_family
+                );
               }
               text.setValue(final_str);
             }

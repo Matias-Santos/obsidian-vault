@@ -1,0 +1,7 @@
+- **Subtasks:**
+    - Fetch user repositories after successful login.
+    - Allow users to select a repository as their vault.
+    - Clone or download the selected repository.
+- **Considerations:**
+    - Handle different repository structures.
+    - Provide feedback during the import process.

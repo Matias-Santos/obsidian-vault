@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement integration with popular note-taking apps.
+    - Allow users to import and export notes to/from these apps.
+- **Considerations:**
+    - Ensure data is accurately transferred and formatted.
+    - Provide options for one-way or two-way sync.

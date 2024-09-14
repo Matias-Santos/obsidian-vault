@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement sharing features via email, link, or social media.
+    - Allow users to set permissions for shared notes.
+- **Considerations:**
+    - Ensure shared content is secure and access-controlled.
+    - Provide options for public or private sharing.

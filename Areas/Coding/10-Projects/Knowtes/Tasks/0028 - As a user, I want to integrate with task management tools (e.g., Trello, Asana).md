@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement integration with task management platforms.
+    - Allow users to create and manage tasks linked to notes.
+- **Considerations:**
+    - Ensure seamless data exchange between the app and task management tools.
+    - Provide clear setup instructions and options.

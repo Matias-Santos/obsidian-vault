@@ -1,3 +1,5 @@
 {
-  "folder": "Knowledge/DailyNotes"
+  "folder": "Areas/Knowledge/Daily Notes",
+  "template": "Templates/Daily Notes Template",
+  "autorun": true
 }

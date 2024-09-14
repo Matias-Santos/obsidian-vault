@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Display a list of documents from the imported vault.
+    - Implement a selection mechanism (checkboxes, drag-and-drop, etc.).
+- **Considerations:**
+    - Support for different document formats.
+    - Handle large numbers of documents efficiently.

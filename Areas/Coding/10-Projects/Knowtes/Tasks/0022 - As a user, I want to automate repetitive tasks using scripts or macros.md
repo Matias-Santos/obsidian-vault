@@ -1,0 +1,6 @@
+- **Subtasks:**
+    - Implement scripting or macro functionality.
+    - Provide a way to create, edit, and execute scripts.
+- **Considerations:**
+    - Ensure scripts are secure and sandboxed.
+    - Provide examples and templates for common tasks.

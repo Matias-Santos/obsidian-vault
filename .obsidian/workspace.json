@@ -13,13 +13,84 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten.md",
+                "file": "Areas/Knowledge/Daily Notes/2024-09/2024-09-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39fdb209635553a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Knowledge/Daily Notes/2024-09/2024-09-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69310170a021fc79",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Resources/Projects/React Master I/00-componetization/Componentization Excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "bc8035bfd1fd9dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Knowledge/Books/Notes on Eat That Frog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5351695bff1dc806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Knowledge/Daily Notes/2024-09/2024-09-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9cf0243d7ff9573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Openings in Coding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c8a8fbd3e64528d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Caro Kann Opening.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -48,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reading",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten.md",
+                "file": "Caro Kann Opening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten.md",
+                "file": "Caro Kann Opening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten.md"
+                "file": "Caro Kann Opening.md"
               }
             }
           },
@@ -138,7 +209,7 @@
             }
           },
           {
-            "id": "d1975487ec7c2896",
+            "id": "6ffa56af963945af",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -164,37 +235,41 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cecc33755c96e5af",
+  "active": "7c8a8fbd3e64528d",
   "lastOpenFiles": [
-    "PostgreSQL.md",
-    "Areas/Knowledge/Daily Notes/2024-09-14.md",
-    "Books Log.md",
-    "Como Configurar Alarmas del Terreno.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-13.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-12.md",
-    "Resources/Projects/React Master I/00-componetization/Componentization Kanban.md",
-    "Craftmanship.md",
-    "Areas/Knowledge/Books/Notes on How to Take Smart Notes.md",
-    "Zettlekasten.md",
     "Resources/Templates/Default Template.md",
+    "Caro Kann Opening.md",
+    "Scripts/incremental_id.js.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-25.md",
+    "Openings in Coding.md",
+    "Scripts",
     "Resources/Templates/Daily Notes Template.md",
-    "Pomodoro Technique.md",
     "Resources/Templates/Books Template.md",
-    "Areas/Knowledge/Books/Notes on Sun Tzu's Art of War Notes.md",
-    "Areas/Knowledge/Books/Notes on Sun Tsu's Art of War Applied to Development.md",
-    "Areas/Knowledge/Books/Notes on On the shortness of life.md",
-    "Areas/Knowledge/Books/Notes on Caminar.md",
+    "Areas/Knowledge/Books/Notes on How to Take Smart Notes.md",
     "Areas/Knowledge/Books/Notes on How to Win Friends and Influence People.md",
-    "React Design Patterns and Best Practices.md",
-    "How to get away with murder.md",
-    "Resources/Projects/Project Ideas.md",
-    "Resources/Becoming a Best Software Dev.md",
-    "Draggable element js.md",
-    "Resources/Projects/React Master I/00-componetization/Componentization.md",
-    "Design patterns.md",
+    "The Freelance World.md",
+    "My 10 things to do in the week.md",
+    "Zettelkasten.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-19.md",
+    "Areas/Knowledge/Daily Notes/2024-09-26.md",
+    "Training.md",
+    "Books Log.md",
+    "Areas/Knowledge/Books/Notes on Eat That Frog.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-24.md",
+    "Resources/Projects/Knowtes/Knowtes Excalidraw.md",
+    "Resources/Templates/Development Note Template.md",
+    "Areas/Knowledge/Books/Notes on Clean Architecture.md",
+    "Areas/Knowledge/Books/Notes on On the shortness of life.md",
+    "Areas/Knowledge/Books/Notes on Sun Tsu's Art of War Applied to Development.md",
+    "Areas/Knowledge/Books/Notes on Caminar.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-20.md",
+    "Resources/Projects/React Master I/00-componetization/Componentization Excalidraw.md",
+    "People",
+    "Excalidraw",
     "Areas/Knowledge/Daily Notes/2024-09",
     "Areas/Knowledge/Daily Notes/2024-08",
     "Resources/Projects/React Master I/00-componetization/Cards",
@@ -202,9 +277,6 @@
     "Resources/Projects/React Master I",
     "Areas/Coding/12-CI-CD",
     "Areas/Coding/11-Git",
-    "Resources/Projects/OtakuReview",
-    "Resources/Projects/Invest3r",
-    "Resources/Projects/Koliprints",
     "Resources/Projects/Untitled.canvas",
     "Areas/Coding/00-React/Images/Pasted image 20240729151821.png",
     "Areas/Coding/00-React/Images/Pasted image 20240626105051.png",

@@ -6,5 +6,9 @@
   "obsidian-checklist-plugin",
   "obsidian-git",
   "code-block-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "better-word-count",
+  "obsidian-list-callouts",
+  "obsidian-excalidraw-plugin",
+  "dataview"
 ]

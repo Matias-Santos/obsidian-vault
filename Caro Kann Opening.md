@@ -1,6 +1,6 @@
-# <% tp.file.title %>
-- Creation Date: <% tp.date.now(format="YYYY-MM-DD") %>
-- Last Update: <% tp.file.last_modified_date("YYYY-MM-DD") %>
+# Caro Kann Opening
+- Creation Date: 2024-09-26
+- Last Update: 2024-09-26
 - Id: 
 - Tags / Categories: 
 - State: 🌱🌿🌲🌞

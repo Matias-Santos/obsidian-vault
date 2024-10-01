@@ -8,7 +8,7 @@
 - Genre: #learning #notes #self-improvement 
 - Related: 
 - Started reading: 2024-09-5
-- Current page: 27/136
+- Current page: 48/136
 - Finished reading: 
 - Origin:
 > [!TL:DR]

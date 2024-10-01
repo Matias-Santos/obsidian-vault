@@ -83,14 +83,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caro Kann Opening.md",
+                "file": "Areas/Knowledge/Daily Notes/2024-09/2024-09-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1795acdbb99c9b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patience with Outputs, impatience with Inputs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01514cab7cedba7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Knowledge/Daily Notes/2024-09-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80618610dc7d81e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A good User Story.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -156,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caro Kann Opening.md",
+                "file": "A good User Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caro Kann Opening.md",
+                "file": "A good User Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caro Kann Opening.md"
+                "file": "A good User Story.md"
               }
             }
           },
@@ -209,7 +245,7 @@
             }
           },
           {
-            "id": "6ffa56af963945af",
+            "id": "96cfccaeb04a3df9",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -239,35 +275,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c8a8fbd3e64528d",
+  "active": "80618610dc7d81e0",
   "lastOpenFiles": [
-    "Resources/Templates/Default Template.md",
+    "Areas/Knowledge/Daily Notes/2024-09-30.md",
+    "A good User Story.md",
+    "Areas/Finance/How to get most profit from business.md",
+    "Areas/Knowledge/Books/Notes on How to Take Smart Notes.md",
+    "Entrepreneurship.md",
+    "Patience with Outputs, impatience with Inputs.md",
+    "Areas/Life/GOALS/Ikigai.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-26.md",
+    "Areas/Life/GOALS/Who am I.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-27.md",
     "Caro Kann Opening.md",
+    "Resources/Templates/Default Template.md",
     "Scripts/incremental_id.js.md",
     "Areas/Knowledge/Daily Notes/2024-09/2024-09-25.md",
     "Openings in Coding.md",
     "Scripts",
     "Resources/Templates/Daily Notes Template.md",
     "Resources/Templates/Books Template.md",
-    "Areas/Knowledge/Books/Notes on How to Take Smart Notes.md",
     "Areas/Knowledge/Books/Notes on How to Win Friends and Influence People.md",
     "The Freelance World.md",
     "My 10 things to do in the week.md",
     "Zettelkasten.md",
     "Areas/Knowledge/Daily Notes/2024-09/2024-09-19.md",
-    "Areas/Knowledge/Daily Notes/2024-09-26.md",
     "Training.md",
     "Books Log.md",
     "Areas/Knowledge/Books/Notes on Eat That Frog.md",
     "Areas/Knowledge/Daily Notes/2024-09/2024-09-24.md",
-    "Resources/Projects/Knowtes/Knowtes Excalidraw.md",
-    "Resources/Templates/Development Note Template.md",
-    "Areas/Knowledge/Books/Notes on Clean Architecture.md",
-    "Areas/Knowledge/Books/Notes on On the shortness of life.md",
-    "Areas/Knowledge/Books/Notes on Sun Tsu's Art of War Applied to Development.md",
-    "Areas/Knowledge/Books/Notes on Caminar.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-20.md",
-    "Resources/Projects/React Master I/00-componetization/Componentization Excalidraw.md",
     "People",
     "Excalidraw",
     "Areas/Knowledge/Daily Notes/2024-09",

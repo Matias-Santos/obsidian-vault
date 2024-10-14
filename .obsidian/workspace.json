@@ -4,129 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a14625a465aa5de2",
+        "id": "47962adfd7ffe278",
         "type": "tabs",
         "children": [
           {
-            "id": "50aa729e239eaf99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Knowledge/Daily Notes/2024-09/2024-09-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39fdb209635553a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Knowledge/Daily Notes/2024-09/2024-09-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69310170a021fc79",
+            "id": "eb176e0b54ff6a13",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Resources/Projects/React Master I/00-componetization/Componentization Excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "bc8035bfd1fd9dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Knowledge/Books/Notes on Eat That Frog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5351695bff1dc806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Knowledge/Daily Notes/2024-09/2024-09-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9cf0243d7ff9573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Openings in Coding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c8a8fbd3e64528d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Knowledge/Daily Notes/2024-09/2024-09-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1795acdbb99c9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Patience with Outputs, impatience with Inputs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01514cab7cedba7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Knowledge/Daily Notes/2024-09-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80618610dc7d81e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A good User Story.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Projects/Knowtes/Knowtes Excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A good User Story.md",
+                "file": "Resources/Projects/Knowtes/Knowtes Excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A good User Story.md",
+                "file": "Resources/Projects/Knowtes/Knowtes Excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A good User Story.md"
+                "file": "Resources/Projects/Knowtes/Knowtes Excalidraw.md"
               }
             }
           },
@@ -245,7 +136,7 @@
             }
           },
           {
-            "id": "96cfccaeb04a3df9",
+            "id": "27c8f1b35c0ae4a2",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -275,35 +166,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80618610dc7d81e0",
+  "active": "eb176e0b54ff6a13",
   "lastOpenFiles": [
-    "Areas/Knowledge/Daily Notes/2024-09-30.md",
-    "A good User Story.md",
-    "Areas/Finance/How to get most profit from business.md",
-    "Areas/Knowledge/Books/Notes on How to Take Smart Notes.md",
-    "Entrepreneurship.md",
+    "Resources/Projects/Knowtes/Knowtes.md",
+    "Areas/Knowledge/Daily Notes/2024-10-14.md",
     "Patience with Outputs, impatience with Inputs.md",
-    "Areas/Life/GOALS/Ikigai.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-26.md",
-    "Areas/Life/GOALS/Who am I.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-27.md",
-    "Caro Kann Opening.md",
-    "Resources/Templates/Default Template.md",
-    "Scripts/incremental_id.js.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-25.md",
-    "Openings in Coding.md",
-    "Scripts",
-    "Resources/Templates/Daily Notes Template.md",
-    "Resources/Templates/Books Template.md",
-    "Areas/Knowledge/Books/Notes on How to Win Friends and Influence People.md",
-    "The Freelance World.md",
     "My 10 things to do in the week.md",
+    "Deep Dip 2.md",
+    "Atomic Notes.md",
+    "Areas/Life/GOALS/The first 20 hours.md",
+    "Areas/Life/GOALS/My goals.md",
+    "People/Alejandro Lazarte.md",
+    "Resources/Templates/Daily Notes Template.md",
+    "The Awakening.md",
+    "Areas/Knowledge/Daily Notes/2024-10-04.md",
     "Zettelkasten.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-19.md",
-    "Training.md",
-    "Books Log.md",
+    "Areas/Knowledge/Daily Notes/2024-09-30.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-26.md",
+    "Openings in Coding.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-25.md",
     "Areas/Knowledge/Books/Notes on Eat That Frog.md",
+    "Resources/Projects/React Master I/00-componetization/Componentization Excalidraw.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-19.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-13.md",
+    "The Freelance World.md",
+    "People/Tobias Arrussi.md",
+    "People/Dami Valdez.md",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-20.md",
     "Areas/Knowledge/Daily Notes/2024-09/2024-09-24.md",
+    "Scripts",
     "People",
     "Excalidraw",
     "Areas/Knowledge/Daily Notes/2024-09",

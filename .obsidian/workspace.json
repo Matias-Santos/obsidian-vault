@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 225.5
   },
   "right": {
     "id": "75a3926cef8e30a0",
@@ -136,7 +136,7 @@
             }
           },
           {
-            "id": "27c8f1b35c0ae4a2",
+            "id": "bbe07953a75c3615",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -144,12 +144,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,9 +169,11 @@
   "lastOpenFiles": [
     "Resources/Projects/Knowtes/Knowtes.md",
     "Areas/Knowledge/Daily Notes/2024-10-14.md",
+    "Areas/Knowledge/Daily Notes/2024-10-13.md",
+    "Resources/Projects/Knowtes/Knowtes Excalidraw.md",
+    "Deep Dip 2.md",
     "Patience with Outputs, impatience with Inputs.md",
     "My 10 things to do in the week.md",
-    "Deep Dip 2.md",
     "Atomic Notes.md",
     "Areas/Life/GOALS/The first 20 hours.md",
     "Areas/Life/GOALS/My goals.md",
@@ -192,8 +193,6 @@
     "The Freelance World.md",
     "People/Tobias Arrussi.md",
     "People/Dami Valdez.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-20.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-24.md",
     "Scripts",
     "People",
     "Excalidraw",

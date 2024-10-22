@@ -13,5 +13,10 @@
 
 ## Introduction
 
-
+- [ ] A good landing page
+- [ ] Show contributions to open source projects
+- [ ] Show expertise in several areas as a team
+- [ ] Clear CTA to get our services rolling
+- [ ] Professional color palette
+- [ ] 
 ## Conclusion

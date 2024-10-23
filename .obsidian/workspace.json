@@ -25,14 +25,12 @@
             "id": "14bfeab95a64c7db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Areas/Knowledge/Daily Notes/2024-10-22.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Projects/Freelance/Freelance Home Page Brainstorm.md"
               },
-              "icon": "lucide-file",
-              "title": "2024-10-22"
+              "icon": "excalidraw-icon",
+              "title": "Freelance Home Page Brainstorm"
             }
           }
         ],
@@ -92,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 217.5
   },
   "right": {
     "id": "75a3926cef8e30a0",
@@ -171,7 +169,7 @@
             }
           },
           {
-            "id": "9f5017a05a9d02f1",
+            "id": "7335ddc8a43bc5d9",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -204,7 +202,27 @@
   },
   "active": "14bfeab95a64c7db",
   "lastOpenFiles": [
+    "Resources/Projects/Freelance/Freelance.md",
+    "Resources/Projects/Freelance/Freelance Home Page Brainstorm.md",
     "Areas/Knowledge/Daily Notes/2024-10-22.md",
+    "Virtual DOM.md",
+    "Resources/Projects/Freelance",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-22.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-18.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-17.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-16.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-15.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-14.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-13.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-10.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-07.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-09.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-06.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-04.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-02.md",
+    "Areas/Knowledge/Daily Notes/2024-10/2024-10-01.md",
+    "Areas/Knowledge/Daily Notes/2024-10",
+    "Areas/Knowledge/Daily Notes/2024-09/2024-09-30.md",
     "Areas/Coding/00-React/Docs/React.md",
     "The Freelance World.md",
     "Areas/Coding/06-Freelance/Freelance Templates.md",
@@ -212,24 +230,6 @@
     "Areas/Life/GOALS/Ikigai.md",
     "Areas/Knowledge/Daily Notes/2024-10-21.md",
     "Resources/Projects/Knowtes/Knowtes Excalidraw.md",
-    "Resources/Projects/Knowtes/Knowtes.md",
-    "Areas/Knowledge/Daily Notes/2024-10-14.md",
-    "Areas/Knowledge/Daily Notes/2024-10-13.md",
-    "Deep Dip 2.md",
-    "Patience with Outputs, impatience with Inputs.md",
-    "My 10 things to do in the week.md",
-    "Atomic Notes.md",
-    "Areas/Life/GOALS/The first 20 hours.md",
-    "People/Alejandro Lazarte.md",
-    "Resources/Templates/Daily Notes Template.md",
-    "The Awakening.md",
-    "Areas/Knowledge/Daily Notes/2024-10-04.md",
-    "Zettelkasten.md",
-    "Areas/Knowledge/Daily Notes/2024-09-30.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-26.md",
-    "Openings in Coding.md",
-    "Areas/Knowledge/Daily Notes/2024-09/2024-09-25.md",
-    "Areas/Knowledge/Books/Notes on Eat That Frog.md",
     "Scripts",
     "People",
     "Excalidraw",
@@ -238,8 +238,6 @@
     "Resources/Projects/React Master I/00-componetization/Cards",
     "Resources/Projects/React Master I/00-componetization",
     "Resources/Projects/React Master I",
-    "Areas/Coding/12-CI-CD",
-    "Areas/Coding/11-Git",
     "Resources/Projects/Untitled.canvas",
     "Areas/Coding/00-React/Images/Pasted image 20240729151821.png",
     "Areas/Coding/00-React/Images/Pasted image 20240626105051.png",
